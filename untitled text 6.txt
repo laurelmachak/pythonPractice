@@ -1,0 +1,5 @@
+pascal's triangle:
+
+-pascal's triangle:
+	 starting with only '1' in the 0th row
+	 creates 1 new row each time, 

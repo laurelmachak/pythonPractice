@@ -1,0 +1,1 @@
+def anxiety_level(frustration, insecurity) 
