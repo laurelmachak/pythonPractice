@@ -9,6 +9,6 @@ def create_grid(rows=5,columns=10):
             grid[row].append(0)
     return grid
 
-grid = create_grid()
+grid = create_grid(15,15)
 for i in grid:
     print(i)
